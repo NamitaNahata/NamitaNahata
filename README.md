@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Namita Nahata
 - 💞️ I’m looking to collaborate on projects that involve AI and ML.
 - 📫 How to reach me www.linkedin.com/in/namita-nahata-a646512b8
-- 😄 Pronouns: She/Her (or “Hey, Genius” works too)  
+- 😄 Pronouns: She/Her 
 - ⚡ Fun fact: Debugging is 90% of my coding, the rest is just staring at the screen. 😅
 
 <!---
