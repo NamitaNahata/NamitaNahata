@@ -7,7 +7,6 @@
 - 🎓 Currently pursuing **B.Tech in Computer Science Engineering (AIML)** at SRM Institute of Science & Technology  
 - 🤖 Interested in solving real-world problems using **AI, ML, and Deep Learning**  
 - 💬 I enjoy learning through projects, research, and continuous upskilling  
-- 💡 Currently exploring **computer vision**, **NLP**, and **AI for social good**
 
 ---
 
