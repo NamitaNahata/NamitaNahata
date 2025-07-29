@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/NamitaNahata/NamitaNahata/blob/main/assets/banner.png" alt="Namita Nahata Banner" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Namita Nahata</h1>
 <h3 align="center">CSE (AIML) | AI/ML Enthusiast | Learning by Building</h3>
