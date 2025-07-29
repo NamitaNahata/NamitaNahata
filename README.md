@@ -28,15 +28,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NamitaNahata&theme=tokyonight&margin-w=15&row=2&column=3" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/namita-nahata-a646512b8)  
-- 📧 Email: namitadrs123@gmail.com@gmail.com  
+- 📧 Email: namitadrs123@gmail.com  
