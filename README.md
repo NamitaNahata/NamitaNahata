@@ -5,10 +5,9 @@
 
 ### 🌱 About Me
 
-- 🎓 I'm currently pursuing B.Tech in Computer Science with a specialization in Artificial Intelligence & Machine Learning  
-- 🤖 I enjoy exploring real-world applications of AI, especially in healthcare and agriculture  
+- 🎓 I'm currently pursuing B.Tech in Computer Science with a specialization in Artificial Intelligence & Machine Learning   
 - 💻 I use GitHub to document my learning and share hands-on projects, notebooks, and research  
-- 🚀 Constantly upskilling through certifications, research, and practical implementation  
+ 
 
 ---
 
@@ -40,4 +39,4 @@
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/namita-nahata-a646512b8)  
-- 📧 Email: namitanahata2003@gmail.com  
+- 📧 Email: namitadrs123@gmail.com@gmail.com  
